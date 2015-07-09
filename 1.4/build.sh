@@ -1,0 +1,1 @@
+docker build -t "program3r/docker-podcastgenerator:1.4" .

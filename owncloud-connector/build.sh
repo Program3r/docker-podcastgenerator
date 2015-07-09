@@ -1,0 +1,1 @@
+docker build -t "program3r/owncloud-podcaster" .
